@@ -6,7 +6,7 @@ import { resumes } from "../../constants";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Resumind BY SANSAI" },
+    { title: "Resumind" },
     { name: "description", content: "Samrt Resume analyzer" },
   ];
 }
